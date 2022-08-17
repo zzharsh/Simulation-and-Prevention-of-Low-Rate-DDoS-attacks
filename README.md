@@ -1,5 +1,11 @@
-# Simulation-and-Prevention-of-Low-Rate-DDoS-attacks
-This repo contains the course project of Communication Networks (EE706).\
+# <center> Simulation-and-Prevention-of-Low-Rate-DDoS-attacks <center/>
+## <center> Course Project for EE706: Communication Networks <center/>
+
+### Team Members:
+- Sunaina Saxena 213070001
+- Harsh Diwakar 213070018
+- Mohit Kumar Meena 213070021
+
 **Problem Description** \
 Denial of Service attacks can prevent or degrade
 the service of users by consuming resources in networks, server
