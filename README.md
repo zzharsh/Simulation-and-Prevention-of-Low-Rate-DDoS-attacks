@@ -46,3 +46,5 @@ protocols for computer communications, 2003, pp. 75–86.
 2. W. Zhijun, L. Wenjing, L. Liang, and Y. Meng, “Low-rate dos attacks,
 detection, defense, and challenges: A survey,” IEEE Access, vol. 8, pp.
 43 920–43 943, 2020.
+\
+3. [Low-Rate-TCP-DoS-Attack](https://github.com/samvid25/Low-Rate-TCP-DoS-Attack)
