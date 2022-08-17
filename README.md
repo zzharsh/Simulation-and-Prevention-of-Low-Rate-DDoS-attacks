@@ -1,4 +1,4 @@
-# <center> Simulation-and-Prevention-of-Low-Rate-DDoS-attacks <center/>
+# <center> Simulation-and-Prevention-of-Low-Rate-DoS-attacks <center/>
 ## <center> Course Project for EE706: Communication Networks <center/>
 
 ### Team Members:
